@@ -1,0 +1,13 @@
+product/app/Messages/Messages.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+vendor/lib64/libMegviiFacepp-0.5.2.so
+vendor/etc/camera/megviifacepp_0_5_2_model
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk
+modem.img
+boot.img
+system_ext/priv-app/Settings/Settings.apk
+system_ext/apex/com.android.vndk.v30.apex
+bootimg/13_dtbdump_qrWk.dtb
