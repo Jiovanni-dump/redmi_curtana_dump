@@ -1,0 +1,13 @@
+vendor/etc/camera/megviifacepp_0_5_2_model
+vendor/lib64/libMegviiFacepp-0.5.2.so
+bootimg/13_dtbdump_fa-.dtb
+boot.img
+system/system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+modem.img
+product/app/Messages/Messages.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
