@@ -1,0 +1,11 @@
+bootimg/13_dtbdump_g;sV_G=`.dtb.xz
+modem.img.xz
+system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk.xz
+system/priv-app/MiuiCamera/MiuiCamera.apk.xz
+system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk.xz
+boot.img.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/app/Messages/Messages.apk.xz
+product/app/WebViewGoogle/WebViewGoogle.apk.xz
+system_ext/priv-app/Settings/Settings.apk.xz
